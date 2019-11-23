@@ -1,0 +1,6 @@
+c:\users\cliente\documents\visual studio 2015\Projects\viagem_composite\viagem_composite\bin\Debug\viagem_composite.exe.config
+c:\users\cliente\documents\visual studio 2015\Projects\viagem_composite\viagem_composite\bin\Debug\viagem_composite.exe
+c:\users\cliente\documents\visual studio 2015\Projects\viagem_composite\viagem_composite\bin\Debug\viagem_composite.pdb
+c:\users\cliente\documents\visual studio 2015\Projects\viagem_composite\viagem_composite\obj\Debug\viagem_composite.csprojResolveAssemblyReference.cache
+c:\users\cliente\documents\visual studio 2015\Projects\viagem_composite\viagem_composite\obj\Debug\viagem_composite.exe
+c:\users\cliente\documents\visual studio 2015\Projects\viagem_composite\viagem_composite\obj\Debug\viagem_composite.pdb
